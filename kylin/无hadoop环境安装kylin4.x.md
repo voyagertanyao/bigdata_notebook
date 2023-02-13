@@ -22,7 +22,7 @@
 ## 部署流程
 
 ### 1. 下载安装包
-[hadoop-3.2.0](https://archive.apache.org/dist/hadoop/common/hadoop-3.2.0/hadoop-3.2.0.tar.gz)
+[hadoop-3.2.0](https://archive.apache.org/dist/hadoop/common/hadoop-3.2.0/hadoop-3.2.0.tar.gz)<br>
 [spark-3.1.1-with-hadoop3](https://archive.apache.org/dist/spark/spark-3.1.1/spark-3.1.1-bin-hadoop3.2.tgz)
 [kylin-4.0.3-spark-3.1](https://www.apache.org/dyn/closer.cgi/kylin/apache-kylin-4.0.3/apache-kylin-4.0.3-bin-spark3.tar.gz)
 [hive-3.1.3](https://dlcdn.apache.org/hive/hive-3.1.3/apache-hive-3.1.3-bin.tar.gz)

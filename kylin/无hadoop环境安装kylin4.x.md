@@ -23,14 +23,20 @@
 
 ### 1. 下载安装包
 [hadoop-3.2.0](https://archive.apache.org/dist/hadoop/common/hadoop-3.2.0/hadoop-3.2.0.tar.gz) 
+
 [spark-3.1.1-with-hadoop3](https://archive.apache.org/dist/spark/spark-3.1.1/spark-3.1.1-bin-hadoop3.2.tgz) 
+
 [kylin-4.0.3-spark-3.1](https://www.apache.org/dyn/closer.cgi/kylin/apache-kylin-4.0.3/apache-kylin-4.0.3-bin-spark3.tar.gz) 
+
 [hive-3.1.3](https://dlcdn.apache.org/hive/hive-3.1.3/apache-hive-3.1.3-bin.tar.gz) 
+
 [hive-standalone-metastore-3.0.0](https://dlcdn.apache.org/hive/hive-standalone-metastore-3.0.0/hive-standalone-metastore-3.0.0-bin.tar.gz) 
+
 mysql-connector-java.jar  
 
+
 ### 2. hadoop配置
-1. 配置HADOOP_HOME：`export HADOOP_HOME=/data/hadoop3.. .0`,`export PATH=$PATH:${HADOOP_HOME}/bin`
+1. 配置HADOOP_HOME：`export HADOOP_HOME=/data/hadoop3.2.0`,`export PATH=$PATH:${HADOOP_HOME}/bin`
 2. 配置HADOOP_CONF_DIR:  `export HADOOP_CONF_DIR=/data/hadoop3.2.0/etc/hadoop`
 3. 复制aws相关包: 
 	1. `cp ${HADOOP_HOME}/share/hadoop/tools/lib/aws-java-sdk-bundle-1.11.375.jar ${HADOOP_HOME}/share/hadoop/common/lib/`

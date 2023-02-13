@@ -196,7 +196,7 @@ kylin.query.spark-conf.spark.master=spark://slave010:7077
 	1. kylin的集群部署暂未验证
 
 ## 参考文献
-1. [kylin4支持矩阵]([参考](https://cwiki.apache.org/confluence/display/KYLIN/Support+Hadoop+Version+Matrix+of+Kylin+4))
+1. [kylin4支持矩阵](https://cwiki.apache.org/confluence/display/KYLIN/Support+Hadoop+Version+Matrix+of+Kylin+4)
 2. [无hadoop环境安装kylin4](https://kylin.apache.org/cn/docs/install/deploy_without_hadoop.html)
 3. [kylin的云原生路线](https://blog.51cto.com/u_15458633/4832308)
 4. [JuiceFS在kylin上的实践](https://juicefs.com/zh-cn/blog/solutions/optimize-kylin-on-juicefs)

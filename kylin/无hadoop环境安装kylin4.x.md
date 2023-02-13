@@ -192,6 +192,7 @@ kylin.query.spark-conf.spark.master=spark://slave010:7077
 2. 计算集群
 	1. 目前没有明确的指导文档指出，kylin支持在spark master 为k8s集群下运行，当前仅支持yarn和standalone模式，由于在无hadoop环境下yarn不可得，standalone应用于生产环境还存在诸多问题
 
+3. 
 
 ## 参考文献
 1. [kylin4支持矩阵]([参考](https://cwiki.apache.org/confluence/display/KYLIN/Support+Hadoop+Version+Matrix+of+Kylin+4))

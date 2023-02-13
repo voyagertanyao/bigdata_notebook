@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b98963d8a411db89",
+        "id": "0fe6d837c7e9711a",
         "type": "tabs",
         "children": [
           {
-            "id": "dbc6055e1d0fc0c2",
+            "id": "fd3d550078308411",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -148,7 +148,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dbc6055e1d0fc0c2",
+  "active": "fd3d550078308411",
   "lastOpenFiles": [
     "计划/2023 PLAN.md",
     "kylin/无hadoop环境安装kylin4.x.md",

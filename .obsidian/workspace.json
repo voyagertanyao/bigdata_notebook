@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0fe6d837c7e9711a",
+        "id": "385cb44befb64892",
         "type": "tabs",
         "children": [
           {
-            "id": "fd3d550078308411",
+            "id": "92fd5ed1a082bfc2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kylin/无hadoop环境安装kylin4.x.md",
-                "mode": "preview",
+                "file": "计划/云原生.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5,
-    "collapsed": true
+    "width": 324.5
   },
   "right": {
     "id": "442f7afd7b3508ae",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "kylin/无hadoop环境安装kylin4.x.md",
+                "file": "计划/云原生.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "kylin/无hadoop环境安装kylin4.x.md",
+                "file": "计划/云原生.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "kylin/无hadoop环境安装kylin4.x.md"
+                "file": "计划/云原生.md"
               }
             }
           },
@@ -157,13 +156,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fd3d550078308411",
+  "active": "92fd5ed1a082bfc2",
   "lastOpenFiles": [
     "计划/2023 PLAN.md",
     "kylin/无hadoop环境安装kylin4.x.md",
+    "计划/数据湖.md",
     "picture/s3在kylin使用中的局限性.png",
     "大数据理论/数仓分层/建模.md",
-    "计划/数据湖.md",
     "得到的地方.md",
     "parquet/Parquet的结构.md",
     "test/001.md",
